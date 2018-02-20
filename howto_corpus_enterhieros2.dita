@@ -4,7 +4,7 @@
   <title>Entering Hieroglyphs</title>
   <body>
     <p>To enter or edit the hieroglyphs of your text, switch to the Sign Text Editor and then open
-      the Hieroglyph Type Writer (HTW). HTW is based on JSesh application created by Serge
+      the Hieroglyph Type Writer (HTW). HTW is based on a JSesh application created by Serge
       Rosmorduc. Make sure you have switched your keyboard back to normal, if you have just been
       entering transliteration.</p>
     <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
@@ -60,7 +60,7 @@
           you need to delete the already entered hieroglyphs, you can simply use the BACKSPACE or
           DELETE buttons on your keyboard and confirm by pressing ENTER. You can also click on the
             <image href="Images/icons/full/icon16/hieroglyphetw-delete.png" id="image_ec2_4tg_wr"/>
-          "Remove Hieroglyph Data" in the toolbar in the top right corner.</li>
+          "Remove Hieroglyph Data" in the toolbar in the top right-hand corner.</li>
       </ol>
     </p>
   </body>

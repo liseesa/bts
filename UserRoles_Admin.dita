@@ -17,7 +17,7 @@
           found in the "Bin" tab, from where they can be deleted permanently.</li>
         <li>Can assign the status of Updater or Reader to other users who have access to a given
           corpus.</li>
-        <li>The Updater / Reader status is irrelevant for the Admin, since the user role takes
+        <li>The Updater/Reader status is irrelevant for the Admin, since the user role takes
           precedence and automatically gives the Admin rights to edit database objects.</li>
         <li>Can alter the visibility of individual database objects in the Passport Editor (Main
           Tab).</li>
@@ -27,7 +27,7 @@
     <p>
       <ul id="ul_okz_zlv_bt">
         <li>The admin user role applies to particular corpora only.</li>
-        <li>The admin cannot edit the passport data or name of an entire corpus if he / she is not
+        <li>The admin cannot edit the passport data or name of an entire corpus if he/she is not
           assigned administrator privileges to that particular corpus. Even if the entire corpus has
           a visibility status "Public", the admin will still have a guest status when selecting the
           corpus. The admin has rights only for individual database objects within the corpus. </li>

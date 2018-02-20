@@ -107,7 +107,7 @@
           </p></li>
       </ol>
     </p>
-    <p><b>Naming a TC Object / Text</b></p>
+    <p><b>Naming a TC Object/Text</b></p>
     <p>Creating a suitable name for each database object, in particular for the TC Object and the
       Text, is essential if you want to be able to quickly locate a specific text in the database.
       Select a concise name that is short and significant. If your text is known under different
@@ -140,7 +140,7 @@
       your text in the TLA.</p>
     <p><b>Defining the review state</b></p>
     <p>The display icon of your TC Objects and Texts differs according to the review state you
-      selected in the main tab of the <xref href="howto_passport.dita">Passport editor</xref> ( a
+      select in the main tab of the <xref href="howto_passport.dita">Passport editor</xref> ( a
       default review state can be defined in the <xref href="ui_berlintextsystem.dita"
         >Preferences</xref>) as follows: </p>
     <p>
@@ -159,8 +159,8 @@
       does not change the status of any of its children; i.e. if your default review state is "new",
       you have to manually change all TCObjects, Texts, annotations, rubra etc. to "published" once
       you want to publish your text in the TLA.</p>
-    <p><b>Moving database objects (TCObjects / Texts)</b></p>
-    <p>To change the physical location of a database object (marked in square brackets next to the
+    <p><b>Moving database objects (TCObjects/Texts)</b></p>
+    <p>To change the physical location of a database object (shown in square brackets next to the
       name) from one project or corpus to another, right click the chosen item and select "Move
       among projects" from the menu. A window opens displaying the current physical location. Alter
       "Current project" and "Current DBCollection" by clicking the check-boxes in the lower field -
